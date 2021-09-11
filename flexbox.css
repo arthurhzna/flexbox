@@ -1,0 +1,42 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex > div {
+    
+    text-align: center;
+    height: 150px;
+    width: 200px;
+    line-height: 150px;
+    margin: 10px;
+    font-size: 90px;
+    color: rgb(70, 66, 66);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: crimson 1px solid;
+
+}
+.huruf1 {
+    background-image: url("chizuru.jpg");
+}
+.huruf2 {
+    background-image: url("miku.jpg");
+}
+.huruf3 {
+    background-image: url("Elaina.png");
+}
+.huruf4 {
+    background-image: url("keqing.jpg");
+}
+.huruf5 {
+    background-image: url("maki.jpg");
+}
+.huruf6 {
+    background-image: url("ganyu.jpg");
+}
+
+
+
+
